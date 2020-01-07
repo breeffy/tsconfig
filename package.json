@@ -1,0 +1,22 @@
+{
+  "name": "@breeffy/tsconfig",
+  "version": "0.0.1",
+  "license": "Apache-2.0",
+  "description": "Shareable tsconfig across breeffy projects",
+  "main": "tsconfig.json",
+  "author": "Victor Malov <victor.malov@breeffy.com>",
+  "repository": "github:breeffy/tsconfig",
+  "homepage": "https://github.com/breeffy/tsconfig#readme",
+  "bugs": "https://github.com/breeffy/tsconfig/issues",
+  "keywords": [
+    "tsc",
+    "tsconfig",
+    "typescript"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "tsconfig.json"
+  ]
+}
